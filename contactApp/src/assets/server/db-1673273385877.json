@@ -1,0 +1,122 @@
+{
+  "contacts": [
+    {
+      "id": "c1",
+      "name": "Leanne Graham",
+      "email": "Sincere@april.biz",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYnf5dIaXoLcMY0e0MCPL02bot93iz8iy6Rg&usqp=CAU",
+      "mobile": "743748989",
+      "company": "Romaguera-Crona",
+      "title": "manager",
+      "groupId": "1"
+    },
+    {
+      "id": "c2",
+      "name": "Ervin Howel",
+      "email": "Shanna@melissa.tv",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx-ydERnP_mTbo9ejLVJf_TvWL0QdDOjlO3A&usqp=CAU",
+      "mobile": "747978334",
+      "company": "Deckow-Crist",
+      "title": "employee",
+      "groupId": "2"
+    },
+    {
+      "id": "c3",
+      "name": "Patricia Lebsack",
+      "email": "Julianne.OConner@kory.org",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2-rZ9sG7rgYajDCmmKOLVNputLtdn00E25A&usqp=CAU",
+      "mobile": "743774869",
+      "company": "Robel-Corkery",
+      "title": "manager",
+      "groupId": "4"
+    },
+    {
+      "id": "c4",
+      "name": "Clementine Bauch",
+      "email": "Nathan@yesenia.net",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrDIWssBN5uUJT0-tMJDvpe4Mz5fdIiYwsYQ&usqp=CAU",
+      "mobile": "946589359",
+      "company": "Romaguera-Crona",
+      "title": "manager",
+      "groupId": "1"
+    },
+    {
+      "id": "c5",
+      "name": "Chelsey Dietrich",
+      "email": "Lucio_Hettinger@annie.ca",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwGlfXb1kFH0BRgTae-tjTRfRQK4TnAngG5w&usqp=CAU",
+      "mobile": "943489732",
+      "company": "Keebler LLC",
+      "title": "employee",
+      "groupId": "1"
+    },
+    {
+      "id": "c6",
+      "name": "Mrs. Dennis Schulist",
+      "email": "Karley_Dach@jasper.info",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYONxtViT_wU_8v3Mb90I_GVMGC3640q6AvA&usqp=CAU",
+      "mobile": "743748989",
+      "company": "Considine-Lockman",
+      "title": "Developer",
+      "groupId": "4"
+    },
+    {
+      "id": "c7",
+      "name": "Kurtis Weissnat",
+      "email": "Telly.Hoeger@billy.biz",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRXoaECQ3xPsbkQNgkfek_3DSVNzaoqdHfSg&usqp=CAU",
+      "mobile": "74438989",
+      "company": "Johns Group",
+      "title": "Finance",
+      "groupId": "4"
+    },
+    {
+      "id": "c8",
+      "name": "Nicholas Runolfsdottir V",
+      "email": "Sherwood@rosamond.me",
+      "photo": "data:image/jpeg;base64,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",
+      "mobile": "743737389",
+      "company": "Abernathy Group",
+      "title": "HR",
+      "groupId": "3"
+    },
+    {
+      "id": "c9",
+      "name": "Glenna Reichert",
+      "email": "Chaim_McDermott@dana.io",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmRZ77hPUNIeknwM6hemLVw2q9FBYka12uKA&usqp=CAU",
+      "mobile": "99748989",
+      "company": "Yost and Sons",
+      "title": "manager",
+      "groupId": "3"
+    },
+    {
+      "id": "c10",
+      "name": "Clementina DuBuque",
+      "email": "Rey.Padberg@karina.biz",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCNkZgD-Yh9TX2zR0YEg4cGl-CgJH779ovsg&usqp=CAU",
+      "mobile": "65448989",
+      "company": "Hoeger LLC",
+      "title": "co-founder",
+      "groupId": "1"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Friends"
+    },
+    {
+      "id": "2",
+      "name": "Family"
+    },
+    {
+      "id": "3",
+      "name": "Collegues"
+    },
+    {
+      "id": "4",
+      "name": "Social"
+    }
+  ]
+}

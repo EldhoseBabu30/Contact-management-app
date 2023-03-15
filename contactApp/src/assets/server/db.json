@@ -1,0 +1,132 @@
+{
+  "contacts": [
+    {
+      "id": "c1",
+      "name": "Leanne Graham ",
+      "email": "Sincere@april.biz",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYnf5dIaXoLcMY0e0MCPL02bot93iz8iy6Rg&usqp=CAU",
+      "mobile": "743748989",
+      "company": "Romaguera-Crona",
+      "title": "manager",
+      "groupId": "1"
+    },
+    {
+      "id": "c2",
+      "name": "Ervin Howel",
+      "email": "Shanna@melissa.tv",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx-ydERnP_mTbo9ejLVJf_TvWL0QdDOjlO3A&usqp=CAU",
+      "mobile": "747978334",
+      "company": "Deckow-Crist",
+      "title": "employee",
+      "groupId": "2"
+    },
+    {
+      "id": "c3",
+      "name": "Patricia Lebsack",
+      "email": "Julianne.OConner@kory.org",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2-rZ9sG7rgYajDCmmKOLVNputLtdn00E25A&usqp=CAU",
+      "mobile": "743774869",
+      "company": "Robel-Corkery",
+      "title": "manager",
+      "groupId": "4"
+    },
+    {
+      "id": "c4",
+      "name": "Clementine Bauch",
+      "email": "Nathan@yesenia.net",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrDIWssBN5uUJT0-tMJDvpe4Mz5fdIiYwsYQ&usqp=CAU",
+      "mobile": "946589359",
+      "company": "Romaguera-Crona",
+      "title": "manager",
+      "groupId": "1"
+    },
+    {
+      "id": "c5",
+      "name": "Chelsey Dietrich",
+      "email": "Lucio_Hettinger@annie.ca",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwGlfXb1kFH0BRgTae-tjTRfRQK4TnAngG5w&usqp=CAU",
+      "mobile": "943489732",
+      "company": "Keebler LLC",
+      "title": "employee",
+      "groupId": "1"
+    },
+    {
+      "id": "c6",
+      "name": "Mrs. Dennis Schulist",
+      "email": "Karley_Dach@jasper.info",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYONxtViT_wU_8v3Mb90I_GVMGC3640q6AvA&usqp=CAU",
+      "mobile": "743748989",
+      "company": "Considine-Lockman",
+      "title": "Developer",
+      "groupId": "4"
+    },
+    {
+      "id": "c7",
+      "name": "Kurtis Weissnat",
+      "email": "Telly.Hoeger@billy.biz",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRXoaECQ3xPsbkQNgkfek_3DSVNzaoqdHfSg&usqp=CAU",
+      "mobile": "74438989",
+      "company": "Johns Group",
+      "title": "Finance",
+      "groupId": "4"
+    },
+    {
+      "id": "c8",
+      "name": "Nicholas Runolfsdottir V",
+      "email": "Sherwood@rosamond.me",
+      "photo": "data:image/jpeg;base64,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",
+      "mobile": "743737389",
+      "company": "Abernathy Group",
+      "title": "HR",
+      "groupId": "3"
+    },
+    {
+      "id": "c9",
+      "name": "Glenna Reichert",
+      "email": "Chaim_McDermott@dana.io",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmRZ77hPUNIeknwM6hemLVw2q9FBYka12uKA&usqp=CAU",
+      "mobile": "99748989",
+      "company": "Yost and Sons",
+      "title": "manager",
+      "groupId": "3"
+    },
+    {
+      "id": "c10",
+      "name": "Clementina DuBuque",
+      "email": "Rey.Padberg@karina.biz",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCNkZgD-Yh9TX2zR0YEg4cGl-CgJH779ovsg&usqp=CAU",
+      "mobile": "65448989",
+      "company": "Hoeger LLC",
+      "title": "co-founder",
+      "groupId": "1"
+    },
+    {
+      "id": "ca11",
+      "name": "Lionel Messi",
+      "photo": "https://cdn.givemesport.com/wp-content/uploads/2022/11/Messi-Featured-Image.png?width=1200&aspect_ratio=4:3",
+      "email": "leomessi10@gmail.com",
+      "mobile": "8458834332",
+      "company": "La Masia",
+      "groupId": "1",
+      "title": "World champion"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Friends"
+    },
+    {
+      "id": "2",
+      "name": "Family"
+    },
+    {
+      "id": "3",
+      "name": "Collegues"
+    },
+    {
+      "id": "4",
+      "name": "Social"
+    }
+  ]
+}

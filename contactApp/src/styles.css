@@ -1,0 +1,10 @@
+/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&family=Fasthand&family=Island+Moments&family=Montserrat&family=Roboto:ital,wght@1,100&family=Sacramento&family=Shalimar&family=Solway&family=Ubuntu&display=swap');
+.title{
+    font-family: 'Solarity', serif;
+    font-family: 'Montserrat', sans-serif;
+}
+.contact-image{
+    width: 120px;
+    border-radius: 50%;
+}
